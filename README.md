@@ -1,6 +1,6 @@
 # alx-higher_level_programming
 
-*** This repo is for the second sprint of the ALX Software Engineering Programme. During this sprint we will be learning and practicing higher level programming languages Python is the primary language we are going to be using. ***
+***This repo is for the second sprint of the ALX Software Engineering Programme. During this sprint we will be learning and practicing higher level programming languages Python is the primary language we are going to be using.***
 
 ## Zen
 
@@ -28,4 +28,4 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 ## AUTHOR
-*** NWADIKE  ODIRA JOSEPH ***(Smartempire007)
+***NWADIKE ODIRA JOSEPH***(Smartempire007)
