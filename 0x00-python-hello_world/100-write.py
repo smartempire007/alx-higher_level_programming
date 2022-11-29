@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 import sys
-sys.stderr.write("A winner never quit and a loser never win!\n")
+sys.stderr.write("and that piece of art is useful - Dora Korpar, 2015-10-19\n")
 sys.exit(1)
